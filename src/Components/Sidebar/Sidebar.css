@@ -1,0 +1,202 @@
+
+.sidebar{
+    position: absolute;
+    width: 250px;
+    height: 1478px;
+    left: 0px;
+    top: 70px;
+    background: #202020;
+    border-radius: 0px;
+    }
+
+  
+
+.Anu{
+    position: absolute;
+    width: 210px;
+    height: 50px;
+    left: 20px;
+    top: 50px;
+    background: #ECCB1D;
+    border-radius: 50px;
+}
+.Anu > h2{
+    position: absolute;
+    width: 93px;
+    height: 30px;
+    left: 70px;
+    top: -5px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+.Anu > img{
+    position: absolute;
+    left: 20.94px;
+    right: 170.94px;
+    top: 15.94px;
+    bottom: 15.94px;
+}
+.yan > h2 {
+    position: absolute;
+    width: 113px;
+    height: 30px;
+    left: 80px;
+    top: 130px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.yan > img {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 152px;
+}
+.arm > h2 {
+    position: absolute;
+    width: 69px;
+    height: 30px;
+    left: 80px;
+    top: 200px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.arm > img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 223px;
+}
+.ann > h2 {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 80px;
+    top: 260px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.ann > img {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 282px;
+}
+.lie > h2 {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    left: 80px;
+    top: 320px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.lie > img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 340px;
+}
+.babe > h2 {
+    position: absolute;
+    width: 81px;
+    height: 30px;
+    left: 80px;
+    top: 500px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.babe > img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 523px;
+}
+.line{
+    position: absolute;
+    width: 170px;
+    height: 0px;
+    left: 40px;
+    top: 460px;
+    border: 1px solid #C4C4C4
+}
+.tina > h2 {
+    position: absolute;
+    width: 80px;
+    height: 30px;
+    left: 80px;
+    top: 570px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.tina > img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 592px;
+}
+.omo > h2 {
+    position: absolute;
+    width: 68px;
+    height: 30px;
+    left: 80px;
+    top: 645px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C4C4C4;
+}
+.omo > img {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 40px;
+    top: 665px;
+}
+@media screen and (max-width: 700px){
+    .sidebar{
+        background: #202020; 
+        width: 150px;  
+    }
+    .Anu{
+        width: 120px;
+    }
+    .Anu > h2{
+        width: 2px;
+    }
+}

@@ -1,0 +1,156 @@
+.run{
+    background: #6e6e70;
+    position: absolute;
+}
+
+.bike{
+    position: absolute;
+    width: 34px;
+    height: 0px;
+    left: 1225px;
+    top: 35px;
+    border: 1px solid rgba(82, 82, 82, 0.25);
+    transform: rotate(90deg);
+}
+.ada{
+    position: absolute;
+    width: 1190px;
+    height: 265px;
+    left: 250px;
+    top: 70px;
+    z-index: -1;
+}
+.ada > img{
+    background: linear-gradient(rgb(0,0,0,0));
+}
+.run > h4{
+    position: absolute;
+    width: 42px;
+    height: 23px;
+    left: 71px;
+    top: 10px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 22px;
+    color: black;
+}
+.run > img{
+    position: absolute;
+    width: 20px;
+    height: 30px;
+    left: 41px;
+    top: 25px;
+}
+.rap > input{
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 450px;
+    top: 15px;
+    background: rgba(184, 184, 184, 0.3);
+    border-radius: 60px;
+    border: none;
+}
+.rap > img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 495px;
+    top: 28px;
+}
+.bat > p{
+    position: absolute;
+    width: 71px;
+    height: 30px;
+    left: 1262px;
+    top: 2px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(133, 131, 131, 0.801);
+}
+.bat > img{
+    position: absolute;
+    width: 71.px;
+    height: 45px;
+    left: 1395px;
+    top: 13.4px;
+}
+.well{
+    position: absolute;
+    width: 166px;
+    height: 30px;
+    left: 100px;
+    top: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color: #F1F1F1;
+    align-items:flex-end;
+    
+}
+.big{
+    position: absolute;
+    width: 166px;
+    height: 30px;
+    left: 100px;
+    top: 50px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 30px;
+    color: goldenrod;  
+}
+.boxed{
+    position: absolute;
+    width: 520px;
+    height: 60px;
+    left: 100px;
+    top: 150px;
+    background: #7F7F87;
+    border: 5px solid #7F7F87;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.boxed > p{
+    position: absolute;
+    width: 440px;
+    height: 24px;
+    left: 50px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.boxed > img {
+    position: absolute;
+    left: 10px;
+    right: 8.33%;
+    top: 17px;
+    bottom: 8.33%;
+    background: #F9B233;
+}
+.kim > img {
+    position: absolute;
+    left: 1201.17px;
+    right: 222.17px;
+    top: 24.6px;
+    bottom: 8.33%;
+}
+.rain > img {
+    position: absolute;
+    left: 1342.29px;
+    right: 87.29px;
+    top: 32.42px;
+    bottom: 37.5%;
+    background: none;
+}
